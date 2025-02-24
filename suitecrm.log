@@ -1,0 +1,21 @@
+Mon Feb 24 12:39:57 2025 [2652][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Mon Feb 24 12:39:57 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Mon Feb 24 12:39:57 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:13 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Mon Feb 24 12:40:13 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:13 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Mon Feb 24 12:40:13 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:14 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Mon Feb 24 12:40:14 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:14 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Mon Feb 24 12:40:14 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:14 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Mon Feb 24 12:40:15 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:40:15 2025 [2652][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Mon Feb 24 12:40:15 2025 [2652][1][FATAL] Email address save error
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Setting logger_file_ext to '.log'.
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Setting logger_file_name to ''.
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Log file extension can't be blank.
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Setting logger_file_name to ''.
+Mon Feb 24 12:42:27 2025 [2652][1][SECURITY] Log file extension can't be blank.
